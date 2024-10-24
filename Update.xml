@@ -1,0 +1,9 @@
+<Updates>
+    <ApplicationName>RockPaperScissors</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Repositories>
+        <Repository>
+            <Url>https://jungjinhyo.github.io/rockpaperscissors-installer/</Url>
+        </Repository>
+    </Repositories>
+</Updates>
