@@ -2,6 +2,8 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <SHA1>9b70db2817a670eb64719bd2eb0f2fa5b01a688b</SHA1>
+ <MetadataName>2024-10-24-1308_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.vendor.rockpaperscissors</Name>
   <DisplayName>Rock Paper Scissors Game</DisplayName>
@@ -11,8 +13,6 @@
   <Default>true</Default>
   <UpdateFile CompressedSize="16960817" OS="Any" UncompressedSize="60947210"/>
   <DownloadableArchives>RockPaperScissors.7z</DownloadableArchives>
-  <SHA1>9654368e17d6d4470fb80ccd70b34fc136dda4b1</SHA1>
+  <SHA1>1d728b88cb7211b75924ddcf698f88ffddfcf7ec</SHA1>
  </PackageUpdate>
- <SHA1>505a1cc467252e885a973ed04c9141d36aa0835a</SHA1>
- <MetadataName>2024-10-24-0946_meta.7z</MetadataName>
 </Updates>
