@@ -9,12 +9,18 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+  steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # 루트 디렉터리에 있는 파일을 배포
+    - name: Set git user info
+      run: |
+        git config --global user.email "jhjunh@rgblab.kr"
+        git config --global user.name "jungjinhyo"
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        publish_dir: ./
+
