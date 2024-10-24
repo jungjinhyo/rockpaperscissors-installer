@@ -9,9 +9,10 @@
   <Version>1.0.0</Version>
   <ReleaseDate>2024-10-23</ReleaseDate>
   <Default>true</Default>
-  <UpdateFile CompressedSize="0" OS="Any" UncompressedSize="0"/>
-  <SHA1>0f49897157e4cd9cec89657099bf9e56915b3970</SHA1>
+  <UpdateFile CompressedSize="16960817" OS="Any" UncompressedSize="60947210"/>
+  <DownloadableArchives>RockPaperScissors.7z</DownloadableArchives>
+  <SHA1>9654368e17d6d4470fb80ccd70b34fc136dda4b1</SHA1>
  </PackageUpdate>
- <SHA1>12812e08791215a1acac63f5948a8be6f526f37f</SHA1>
- <MetadataName>2024-10-24-0917_meta.7z</MetadataName>
+ <SHA1>505a1cc467252e885a973ed04c9141d36aa0835a</SHA1>
+ <MetadataName>2024-10-24-0946_meta.7z</MetadataName>
 </Updates>
