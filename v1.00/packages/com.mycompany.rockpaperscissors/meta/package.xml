@@ -4,4 +4,5 @@
     <Version>1.00</Version>
     <ReleaseDate>2024-10-28</ReleaseDate>
     <Default>true</Default>
+    <Script>installscript.qs</Script>
 </Package>
