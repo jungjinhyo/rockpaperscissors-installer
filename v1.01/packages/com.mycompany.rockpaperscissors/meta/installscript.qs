@@ -6,10 +6,10 @@ function Component() {
 
 Component.prototype.onInstallationStarted = function() {
     if (component.updateRequested() || component.installationRequested()) {
-        // 운영체제에 맞게 설치 프로그램 경로 설정
+        // 설치 경로에서 실행 파일 경로 설정
         var binaryPath = installer.value("TargetDir") + "/RockPaperScissors.exe";
 
-        // 최신 버전 체크
+        // 최신 버전 체크 및 기본 실행 파일 설정
         installer.setInstallerBaseBinary(binaryPath);
         var updateResourceFilePath = installer.value("TargetDir") + "/update.rcc";
         installer.setValue("DefaultResourceReplacement", updateResourceFilePath);
