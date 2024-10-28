@@ -8,15 +8,19 @@ Component.prototype.onInstallationStarted = function() {
     var targetDir = installer.value("TargetDir");
     var exePath = targetDir + "/RockPaperScissors.exe";
 
-    // 1. RockPaperScissors.exe 복사 작업 수행
+    // 1. 압축 파일 해제 작업 수행
+    console.log("Extracting RockPaperScissors_v1.00.7z to: " + targetDir);
+    component.addOperation("Extract", "data/RockPaperScissors_v1.00.7z", targetDir);
+
+    // 2. RockPaperScissors.exe 복사 작업
     if (!installer.fileExists(exePath)) {
-        component.addOperation("Copy", "data/RockPaperScissors.exe", exePath);
-        console.log("RockPaperScissors.exe copied to: " + exePath);
+        console.log("Copying RockPaperScissors.exe to: " + exePath);
+        component.addOperation("Copy", targetDir + "/RockPaperScissors.exe", exePath);
     } else {
         console.log("RockPaperScissors.exe already exists.");
     }
 
-    // 2. 최신 버전 체크 및 설정
+    // 3. 최신 버전 체크 및 설정
     if (component.updateRequested() || component.installationRequested()) {
         console.log("Update requested or new installation.");
 
