@@ -9,7 +9,7 @@
 
     <RemoteRepositories>
         <Repository>
-            <Url>https://jungjinhyo.github.io/rockpaperscissors-installer/v1.01</Url>
+            <Url>https://jungjinhyo.github.io/rockpaperscissors-installer/latest</Url>
             <Enabled>1</Enabled>
             <DisplayName>Rock Paper Scissors v1.01 Repository</DisplayName>
         </Repository>
