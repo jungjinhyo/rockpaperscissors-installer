@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
     <Name>Rock Paper Scissors Installer</Name>
-    <Version>1.02</Version>
+    <Version>1.03</Version>
     <Title>Rock Paper Scissors Game Installer</Title>
     <Publisher>MyCompany</Publisher>
     <StartMenuDir>RockPaperScissors</StartMenuDir>
@@ -9,9 +9,9 @@
 
     <RemoteRepositories>
         <Repository>
-            <Url>https://jungjinhyo.github.io/rockpaperscissors-installer/v1.02</Url>
+            <Url>https://jungjinhyo.github.io/rockpaperscissors-installer/v1.03</Url>
             <Enabled>1</Enabled>
-            <DisplayName>Rock Paper Scissors v1.02 Repository</DisplayName>
+            <DisplayName>Rock Paper Scissors v1.03 Repository</DisplayName>
         </Repository>
     </RemoteRepositories>
 </Installer>
