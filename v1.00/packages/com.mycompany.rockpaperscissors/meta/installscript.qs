@@ -32,6 +32,6 @@ Component.prototype.createOperationsForArchive = function(archive) {
     if (installer.versionMatches(component.ifwVersion, "<4.8.0")) {
         component.createOperationsForArchive(archive);
     } else {
-        component.addOperation("Extract", archive, "@TargetDir@/tmpMaintenanceToolApp");
+        component.addOperation("Extract", archive, "@TargetDir@/launcher");
     }
 };
