@@ -1,0 +1,18 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.mycompany.rockpaperscissors</Name>
+  <DisplayName>Rock Paper Scissors Game v1.00</DisplayName>
+  <Description>A simple Rock Paper Scissors game.</Description>
+  <Version>1.00</Version>
+  <ReleaseDate>2024-10-28</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="16960818" OS="Any" UncompressedSize="60947210"/>
+  <DownloadableArchives>RockPaperScissors_v1.00.7z</DownloadableArchives>
+  <SHA1>be43c2e0a8f70cdc028ceec84f73a9cd3c0a7585</SHA1>
+ </PackageUpdate>
+ <SHA1>be43c2e0a8f70cdc028ceec84f73a9cd3c0a7585</SHA1>
+ <MetadataName>2024-10-28-1139_meta.7z</MetadataName>
+</Updates>
