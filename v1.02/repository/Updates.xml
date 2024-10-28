@@ -1,6 +1,6 @@
 <Updates>
  <ApplicationName>{AnyApplication}</ApplicationName>
- <ApplicationVersion>1.0.2</ApplicationVersion>
+ <ApplicationVersion>1.02</ApplicationVersion>
  <Checksum>true</Checksum>
  <PackageUpdate>
   <Name>com.mycompany.rockpaperscissors</Name>
