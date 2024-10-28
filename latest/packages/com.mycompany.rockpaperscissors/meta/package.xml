@@ -1,7 +1,7 @@
 <Package>
-    <DisplayName>Rock Paper Scissors Game v1.02</DisplayName>
+    <DisplayName>Rock Paper Scissors Game v1.03</DisplayName>
     <Description>A simple Rock Paper Scissors game.</Description>
-    <Version>1.02</Version>
+    <Version>1.03</Version>
     <ReleaseDate>2024-10-28</ReleaseDate>
     <Default>true</Default>
     <Script>installscript.qs</Script>
