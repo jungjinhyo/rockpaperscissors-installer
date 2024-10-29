@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Package>
-    <DisplayName>Rock Paper Scissors</DisplayName>  <!-- 패키지 이름 -->
+    <DisplayName>Rock Paper Scissors Game (v1.0.6)</DisplayName>  <!-- 패키지 이름 -->
     <Description>A simple Rock Paper Scissors game.</Description>  <!-- 설명 -->
     <Version>1.0.6</Version>  <!-- 패키지 버전 -->
     <ReleaseDate>2024-10-29</ReleaseDate>  <!-- 릴리즈 날짜 -->
