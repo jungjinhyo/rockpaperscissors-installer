@@ -2,8 +2,6 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>66b05fb2308305d6c6b8562489d3180cc3c2ad06</SHA1>
- <MetadataName>2024-10-29-1057_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mycompany.rockpaperscissors</Name>
   <DisplayName>Rock Paper Scissors Game (v1.0.6)</DisplayName>
@@ -19,6 +17,8 @@
   <Licenses>
    <License file="license.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>2bb9a121f4fd77f9cb234bc97bda43161e7490ca</SHA1>
+  <SHA1>2988f81d364b3c66e72f7788402f52a0b1c99d3e</SHA1>
  </PackageUpdate>
+ <SHA1>ed96e7f7394e11872bc603fea0b91f13d858139f</SHA1>
+ <MetadataName>2024-10-29-1102_meta.7z</MetadataName>
 </Updates>
