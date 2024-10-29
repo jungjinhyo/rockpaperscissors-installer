@@ -8,7 +8,6 @@
   <Description>A simple Rock Paper Scissors game.</Description>
   <Version>1.0.6</Version>
   <ReleaseDate>2024-10-29</ReleaseDate>
-  <Dependencies>com.vendor.root.component1</Dependencies>
   <DownloadableArchives>RockPaperScissors_v1.0.6.7z</DownloadableArchives>
   <UpdateText>This release includes bug fixes and new features.</UpdateText>
   <Default>true</Default>
@@ -18,8 +17,8 @@
   <Licenses>
    <License file="license.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>b7f08a9f04dc2ee236be1a1c577c8fc93af592a9</SHA1>
+  <SHA1>85fcf018510f8a28d2a0b4d0d60d4e37dc1db29a</SHA1>
  </PackageUpdate>
- <SHA1>e6081360cbaefaadf696d7cdb31c5b62e73c8e61</SHA1>
- <MetadataName>2024-10-29-1049_meta.7z</MetadataName>
+ <SHA1>85a33396ee0f18abf13368a1901bc5170709ea52</SHA1>
+ <MetadataName>2024-10-29-1054_meta.7z</MetadataName>
 </Updates>
