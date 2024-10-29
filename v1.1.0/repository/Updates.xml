@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.mycompany.rockpaperscissors</Name>
+  <DisplayName>Rock Paper Scissors Game (v1.1.0)</DisplayName>
+  <Description>A simple Rock Paper Scissors game.</Description>
+  <Version>1.1.0</Version>
+  <ReleaseDate>2024-10-29</ReleaseDate>
+  <DownloadableArchives>RockPaperScissors_v1.1.0.7z</DownloadableArchives>
+  <UpdateText>This release includes bug fixes and new features.</UpdateText>
+  <Default>true</Default>
+  <ForcedInstallation>false</ForcedInstallation>
+  <ForcedUpdate>false</ForcedUpdate>
+  <UpdateFile CompressedSize="16966323" OS="Any" UncompressedSize="60986569"/>
+  <Licenses>
+   <License file="license.txt" name="License Agreement"/>
+  </Licenses>
+  <SHA1>5052a148536f4c78b8a23109b15ff2ff2a7cc126</SHA1>
+ </PackageUpdate>
+ <SHA1>ebe7fc79b5dd59929fbf433e18fc172972d03157</SHA1>
+ <MetadataName>2024-10-29-1347_meta.7z</MetadataName>
+</Updates>
