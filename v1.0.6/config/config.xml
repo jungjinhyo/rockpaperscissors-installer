@@ -14,7 +14,7 @@
     <RunProgramDescription>Play the latest version of Rock Paper Scissors!</RunProgramDescription>
 
     <StartMenuDir>RockPaperScissors</StartMenuDir>  <!-- 시작 메뉴 디렉터리 -->
-    <TargetDir>@HomeDir@/RockPaperScissors</TargetDir>  <!-- 기본 설치 경로 -->
+    <TargetDir>@DesktopDir@/RockPaperScissors</TargetDir>  <!-- 기본 설치 경로 -->
     <AdminTargetDir>@RootDir@/RockPaperScissors</AdminTargetDir>  <!-- 관리자 설치 경로 -->
 
     <RemoteRepositories>
