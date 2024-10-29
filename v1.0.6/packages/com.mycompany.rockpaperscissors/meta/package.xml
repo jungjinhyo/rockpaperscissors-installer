@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Package>
+    <DisplayName>Rock Paper Scissors</DisplayName>  <!-- 패키지 이름 -->
+    <Description>A simple Rock Paper Scissors game.</Description>  <!-- 설명 -->
+    <Version>1.0.6</Version>  <!-- 패키지 버전 -->
+    <ReleaseDate>2024-10-29</ReleaseDate>  <!-- 릴리즈 날짜 -->
+    <Name>com.mycompany.rockpaperscissors</Name>  <!-- 고유 패키지 이름 -->
+    <Dependencies>com.vendor.root.component1</Dependencies>  <!-- 의존성 정의 -->
+    <Licenses>
+        <License name="License Agreement" file="license.txt" />
+    </Licenses>
+    <DownloadableArchives>RockPaperScissors_v1.0.6.7z</DownloadableArchives>  <!-- 압축 파일 -->
+    <UpdateText>This release includes bug fixes and new features.</UpdateText>  <!-- 업데이트 설명 -->
+    <Default>true</Default>  <!-- 기본 설치 대상 -->
+    <ForcedInstallation>false</ForcedInstallation>  <!-- 강제 설치 여부 -->
+    <ForcedUpdate>false</ForcedUpdate>  <!-- 강제 업데이트 여부 -->
+</Package>
