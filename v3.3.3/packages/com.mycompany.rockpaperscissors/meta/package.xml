@@ -1,7 +1,7 @@
 <Package>
-    <DisplayName>Rock Paper Scissors Game v1.0.5</DisplayName>
+    <DisplayName>Rock Paper Scissors Game v3.3.3</DisplayName>
     <Description>A simple Rock Paper Scissors game.</Description>
-    <Version>1.0.5</Version>
-    <ReleaseDate>2024-10-29</ReleaseDate>
+    <Version>3.3.3</Version>
+    <ReleaseDate>2024-10-30</ReleaseDate>
     <Default>true</Default>
 </Package>
