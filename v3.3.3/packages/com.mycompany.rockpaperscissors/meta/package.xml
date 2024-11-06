@@ -4,4 +4,6 @@
     <Version>3.3.3</Version>
     <ReleaseDate>2024-10-30</ReleaseDate>
     <Default>true</Default>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Script>installscript.qs</Script>
 </Package>
