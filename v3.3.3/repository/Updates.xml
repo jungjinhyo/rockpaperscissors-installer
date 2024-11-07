@@ -2,19 +2,23 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
+ <SHA1>f561634888b6cef1c8619bf542e2bdfdbba7c257</SHA1>
+ <MetadataName>2024-11-07-1326_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.mycompany.rockpaperscissors</Name>
-  <DisplayName>Rock Paper Scissors Game v3.3.3</DisplayName>
+  <DisplayName>Rock Paper Scissors Game (v3.3.3#)</DisplayName>
   <Description>A simple Rock Paper Scissors game.</Description>
   <Version>3.3.3</Version>
-  <ReleaseDate>2024-10-30</ReleaseDate>
+  <ReleaseDate>2024-10-31</ReleaseDate>
+  <DownloadableArchives>RockPaperScissors_v3.3.3.7z</DownloadableArchives>
+  <UpdateText>This release includes bug fixes and new features.</UpdateText>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
-  <Script>installscript.qs</Script>
+  <ForcedUpdate>true</ForcedUpdate>
   <UpdateFile CompressedSize="16982534" OS="Any" UncompressedSize="61093162"/>
-  <DownloadableArchives>RockPaperScissors_v3.3.3.7z</DownloadableArchives>
-  <SHA1>3eebaa5ccabe1440646f4438fdca849fc1bd568e</SHA1>
+  <Licenses>
+   <License file="license.txt" name="License Agreement"/>
+  </Licenses>
+  <SHA1>524983d5c7f3458decfa8a1dd4a608680c8ff1a2</SHA1>
  </PackageUpdate>
- <SHA1>663506da05f153d0e90c08b6d3203920330194f7</SHA1>
- <MetadataName>2024-11-06-1800_meta.7z</MetadataName>
 </Updates>

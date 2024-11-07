@@ -7,10 +7,9 @@ Controller.prototype.IntroductionPageCallback = function() {
 }
 
 Controller.prototype.TargetDirectoryPageCallback = function() {
-    var targetDir = installer.value("HomeDir") + "/RockPaperScissors";
-    if (targetDir) {
-        gui.currentPageWidget().TargetDirectoryLineEdit.setText(targetDir);
-    }
+    // 현재 실행 중인 디렉터리 경로를 가져와서 설치 경로로 설정
+    var currentDir = QDir.currentPath();
+    gui.currentPageWidget().TargetDirectoryLineEdit.setText(currentDir); // 현재 디렉터리에 설치 경로 설정
     gui.clickButton(buttons.NextButton);
 }
 
