@@ -1,0 +1,15 @@
+<Package>
+ <DisplayName>rockpaperscissors-installer (v1.2.1)</DisplayName>
+ <Description>A simple rockpaperscissors-installer game.</Description>
+ <Version>1.2.1</Version>
+ <ReleaseDate>2024-11-07</ReleaseDate>
+ <Name>com.mycompany.rockpaperscissors-installer</Name>
+ <Licenses>
+  <License file="license.txt" name="License Agreement"/>
+ </Licenses>
+ <DownloadableArchives>installer.zip</DownloadableArchives> <!-- release.zip 대신 최상단 파일 압축 -->
+ <UpdateText>This release includes bug fixes and new features.</UpdateText>
+ <Default>true</Default>
+ <ForcedInstallation>true</ForcedInstallation>
+ <ForcedUpdate>true</ForcedUpdate>
+</Package>

@@ -1,0 +1,24 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <SHA1>1117ab1e7f0fcbc25f616be412c738c59b3aed66</SHA1>
+ <MetadataName>2024-11-08-1430_meta.7z</MetadataName>
+ <PackageUpdate>
+  <Name>com.mycompany.rockpaperscissors-installer</Name>
+  <DisplayName>rockpaperscissors-installer (v1.2.2)</DisplayName>
+  <Description>A simple rockpaperscissors-installer game.</Description>
+  <Version>1.2.2</Version>
+  <ReleaseDate>2024-11-08</ReleaseDate>
+  <DownloadableArchives>rockpaperscissors-installer_v1.2.2.zip</DownloadableArchives>
+  <UpdateText>This release includes bug fixes and new features.</UpdateText>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <ForcedUpdate>true</ForcedUpdate>
+  <UpdateFile CompressedSize="128205" OS="Any" UncompressedSize="377111"/>
+  <Licenses>
+   <License file="license.txt" name="License Agreement"/>
+  </Licenses>
+  <SHA1>46cba49c59f8eebdb4a56695abaf18ee51e26a38</SHA1>
+ </PackageUpdate>
+</Updates>
